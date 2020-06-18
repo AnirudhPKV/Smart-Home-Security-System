@@ -1,0 +1,2 @@
+# Smart-Home-Security-System
+This is a Python code for Internet of Things based Home Security System using Raspberry pi . The idea of home security to prevent robberies and thefts. We created a security system that can be controlled by the user and operates according to user’s instructions. The system will detect the presence of intruder and alert the user by sending him a message through telegram. It uses an android platform called “Telegram” to interact or control the system, which represents the real-worlds problem like theft-detection etc.
